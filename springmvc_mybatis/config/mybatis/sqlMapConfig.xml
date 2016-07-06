@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<!-- 
+		配置mapper 由于使用springmvc和mybatis的整合包
+		进行mapper扫描，这里不需要配置下边的mapper了
+	 -->
+	<!-- 
+	<mappers>
+	<package name="cn.itcast.ssm.mapper" />
+	</mappers> 
+	-->
+</configuration>
