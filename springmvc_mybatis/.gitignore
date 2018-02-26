@@ -1,0 +1,6 @@
+/bin/
+*.class
+*.iml
+target
+.idea
+.classpath
